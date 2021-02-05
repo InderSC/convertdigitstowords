@@ -1,0 +1,26 @@
+{
+  "name": "convertdigitstowords",
+  "version": "1.0.0",
+  "description": "convert digits to words in english",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "s"
+  },
+  "keywords": [
+    "digits",
+    "convert",
+    "number",
+    "words",
+    "decimal"
+  ],
+  "author": "HK",
+  "license": "ISC",
+  "dependencies": {
+    "tap": "^14.11.0"
+  }
+}
