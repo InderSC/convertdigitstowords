@@ -24,4 +24,5 @@ console.log(numToWords.convertDigitsToWords(902)); //nine hundred and two dollar
 ```
 
 _Note: This module only supports digits between 1 to 1000 
+
 The unit test script has also been added.
