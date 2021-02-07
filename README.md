@@ -25,4 +25,5 @@ console.log(numToWords.convertDigitsToWords(902)); //nine hundred and two dollar
 
 _Note: This module only supports digits between 1 to 1000 
 
-The unit test script has also been added.
+# Usage
+The unit test script has also been added called test.js. For testing directly inside node module go inside converdigitstowords folder andrun <pre>node test</pre>
